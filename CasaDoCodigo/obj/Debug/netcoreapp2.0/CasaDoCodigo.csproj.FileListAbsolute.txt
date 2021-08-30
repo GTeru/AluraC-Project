@@ -1,0 +1,16 @@
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.deps.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+D:\Programming\Alura\C#\AluraNetJunior\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
